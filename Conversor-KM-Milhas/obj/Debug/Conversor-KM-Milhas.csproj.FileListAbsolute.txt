@@ -1,0 +1,21 @@
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\bin\Debug\Conversor-KM-Milhas.exe.config
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\bin\Debug\Conversor-KM-Milhas.exe
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\bin\Debug\Conversor-KM-Milhas.pdb
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor_KM_Milhas.Form1.resources
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor_KM_Milhas.Properties.Resources.resources
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.csproj.GenerateResource.cache
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.exe
+C:\Users\unisanta\Downloads\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.pdb
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.csproj.AssemblyReference.cache
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.exe.config
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor_KM_Milhas.Form1.resources
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor_KM_Milhas.Properties.Resources.resources
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.csproj.GenerateResource.cache
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.csproj.CoreCompileInputs.cache
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.exe
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\obj\Debug\Conversor-KM-Milhas.pdb
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\bin\Debug\Conversor-KM-Milhas.exe.config
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\bin\Debug\Conversor-KM-Milhas.exe
+C:\Users\annab\OneDrive - Instituto Superior de Educação Santa Cecilia\Unisanta\3° Semestre\Aplicações para Desktop\Aula 02\Conversor-KM-Milhas\Conversor-KM-Milhas\bin\Debug\Conversor-KM-Milhas.pdb
