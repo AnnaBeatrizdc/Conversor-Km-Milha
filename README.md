@@ -33,8 +33,8 @@ Aplicação desktop desenvolvida em C# Windows Forms para conversão de unidades
 
 ## 📊 Fórmulas de Conversão
 
-- **Quilômetros para Milhas**: `milhas = quilômetros × 1.609344`
-- **Milhas para Quilômetros**: `quilômetros = milhas ÷ 1.609344`
+- **Quilômetros para Milhas**: `milhas = quilômetros ÷ 1.609344`
+- **Milhas para Quilômetros**: `quilômetros = milhas × 1.609344`
 
 ## 📁 Estrutura do Projeto
 
